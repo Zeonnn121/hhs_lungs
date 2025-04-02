@@ -36,63 +36,63 @@ function App() {
       name: "Right Upper Lobe",
       description: "The superior lobe of the right lung, containing 3 segments. It's involved in upper chest breathing.",
       learnMoreLink: "https://www.physio-pedia.com/Lung_Anatomy",
-      videoLink: "https://www.youtube.com/watch?v=1F5Y7kD-KhA",
+      videoLink: "https://youtu.be/bak30LFY3r8?feature=shared",
       position: { left: '30%', top: '20%', width: '15%', height: '20%' }
     },
     {
       name: "Right Middle Lobe",
       description: "Located between upper and lower lobes of the right lung, containing 2 segments.",
       learnMoreLink: "https://www.physio-pedia.com/Lung_Anatomy",
-      videoLink: "https://www.youtube.com/watch?v=G_6hGgP1yWQ",
+      videoLink: "https://youtu.be/bak30LFY3r8?feature=shared",
       position: { left: '26%', top: '43%', width: '15%', height: '19%' }
     },
     {
       name: "Right Lower Lobe",
       description: "The inferior lobe of the right lung, containing 5 segments. Important for deep breathing.",
       learnMoreLink:"https://www.physio-pedia.com/Lung_Anatomy",
-      videoLink: "https://www.youtube.com/watch?v=0fVq4-7W3qI",
+      videoLink: "https://youtu.be/bak30LFY3r8?feature=shared",
       position: { left: '25%', top: '62%', width: '15%', height: '20%' }
     },
     {
       name: "Left Upper Lobe",
       description: "The superior lobe of the left lung, slightly smaller due to heart position.",
       learnMoreLink: "https://radiopaedia.org/articles/left-lung",
-      videoLink: "https://www.youtube.com/watch?v=5X9j9I0Y5t4",
+      videoLink: "https://youtu.be/bak30LFY3r8?feature=shared",
       position: { left: '55%', top: '20%', width: '15%', height: '20%' }
     },
     {
       name: "Left Lower Lobe",
       description: "The inferior lobe of the left lung, essential for deep breathing exercises.",
       learnMoreLink: "https://radiopaedia.org/articles/left-lung",
-      videoLink: "https://www.youtube.com/watch?v=7jZ5W6-3-0Q",
+      videoLink: "https://youtu.be/bak30LFY3r8?feature=shared",
       position: { left: '55%', top: '65%', width: '15%', height: '17%' }
     },
     {
       name: "Trachea",
       description: "The windpipe, connecting the larynx to the bronchi of the lungs.",
       learnMoreLink: "https://en.wikipedia.org/wiki/Trachea",
-      videoLink: "https://www.youtube.com/watch?v=6QZisDvX1Q4",
+      videoLink: "https://youtu.be/RiKIC5of8qM?feature=shared",
       position: { left: '45%', top: '5%', width: '10%', height: '40%' }
     },
     {
       name: "Primary Bronchi",
       description: "Main airways that branch from the trachea into each lung.",
       learnMoreLink: "https://my.clevelandclinic.org/health/body/21607-bronchi",
-      videoLink: "https://www.youtube.com/watch?v=4XEMkQYI5b4",
+      videoLink: "https://youtu.be/WbmCi-yo-44?feature=shared",
       position: { left: '45%', top: '45%', width: '5%', height: '5%' }
     },
     {
       name: "Bronchioles",
       description: "Smaller branches of the bronchial airways that lack cartilage. Terminal bronchioles lead to respiratory bronchioles and ultimately to alveoli. They control airflow through smooth muscle contraction.",
       learnMoreLink: "https://en.wikipedia.org/wiki/Bronchiole",
-      videoLink: "https://www.youtube.com/watch?v=4XEMkQYI5b4",
+      videoLink: "https://youtu.be/WbmCi-yo-44?feature=shared",
       position: { left: '50%', top: '55%', width: '5%', height: '10%' }
     },
     {
       name: "Alveoli",
       description: "Tiny, grape-like air sacs (about 300 million in adult lungs) where gas exchange occurs. Their thin walls (one cell thick) and large surface area (70-100 m²) allow oxygen to enter the blood and carbon dioxide to be expelled. Surfactant reduces surface tension to prevent collapse.",
       learnMoreLink: "https://www.verywellhealth.com/what-are-alveoli-2249043",
-      videoLink: "https://www.youtube.com/watch?v=0fVq4-7W3qI",
+      videoLink: "https://youtu.be/DujNzsM6VLs?feature=sharedI",
       position: { left: '60%', top: '55%', width: '10%', height: '10%' }
     }
   ];
